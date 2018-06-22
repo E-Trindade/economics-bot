@@ -1,0 +1,8 @@
+user="database username"
+password="database password"
+host="mySQL host address"
+database="database name"
+verification_token="verification token for facebook webhook"
+url="https://graph.facebook.com/v2.11/me/messages?access_token=access token generated"
+CORENLP_JAR_PATH='/opt/stanford-corenlp-full-2018-02-27/stanford-corenlp-3.9.1.jar'
+CORENLP_MODELS_PATH='/opt/stanford-corenlp-full-2018-02-27/stanford-corenlp-3.9.1-models.jar'
